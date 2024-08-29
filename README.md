@@ -96,8 +96,4 @@ Kavach is a state-of-the-art Know Your Customer (KYC) application designed to si
 - **Multi-language support:** Enabling internationalisation of the application by overcoming language barriers.
 - **Blockchain Integration:** Enhancing the security of the application by maintaining immutable records.
 - **Linking Bank Account:** Enhancing the user convenience and authenticity by integrating financial services within the same platform.
-## Team Members
-- Aarchi Dholakia - [GitHub](https://www.github.com/Aarchi-Dholakia) | [LinkedIn](https://www.linkedin.com/in/aarchi-dholakia-278774288)
-- Vedant Patel - [GitHub](https://www.github.com/Vedantt-Patel) | [LinkedIn](https://www.linkedin.com/in/vedant-patel-machine-learning/)
-- Aarya Gopani - [GitHub](https://github.com/aaryagopani) | [LinkedIn](https://www.linkedin.com/in/aarya-gopani-99444a259/)
-- Prit Shah - [GitHub](https://www.github.com/Prit5642) | [LinkedIn](https://www.linkedin.com/in/prit-shah-b1b58a286/)
+
