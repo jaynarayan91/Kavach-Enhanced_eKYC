@@ -1,0 +1,29 @@
+{
+    "features": {
+        "title": "Features",
+        "subtitle": "All the best technologies out there!",
+        "description": "Discover Kavach, the next-generation KYC application designed to make identity verification simple, secure, and efficient. With a seamless user experience and advanced AI technology, Kavach ensures a hassle-free KYC process, safeguarding your personal information every step of the way.",
+        "items": [
+            {
+                "name": "Seamless User Experience",
+                "description": "Kavach offers an intuitive interface for easy navigation through registration, form filling, and document upload, ensuring a smooth and hassle-free process.",
+                "icon": "fa-solid fa-users-gear"
+            },
+            {
+                "name": "Advanced AI Technology",
+                "description": "Leveraging cutting-edge AI, Kavach performs accurate and efficient biometric and document verification, minimizing manual checks and enhancing reliability.",
+                "icon": "fa-solid fa-laptop-code"
+            },
+            {
+                "name": "High Security",
+                "description": "With robust security measures, Kavach protects your personal and sensitive information, preventing fraud and identity theft.",
+                "icon": "fa-solid fa-user-shield"
+            },
+            {
+                "name": "Personalised ChatBot Support",
+                "description": "Our intelligent chatbot provides immediate assistance and guidance throughout the KYC process, answering questions about registration, document upload, and verification status.",
+                "icon": "fa-solid fa-robot"
+            }
+        ]
+    }
+}

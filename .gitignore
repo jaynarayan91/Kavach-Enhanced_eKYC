@@ -1,0 +1,32 @@
+Kavach-backend/.env
+Kavach-backend/node_modules/
+
+# dependencies
+Kavach-frontend/node_modules/
+Kavach-frontend/.pnp
+Kavach-backend/.pnp
+Kavach-frontend/.pnp.js
+Kavach-backend/.pnp.js
+
+# testing
+Kavach-frontend/coverage/
+Kavach-backend/coverage/
+
+# production
+Kavach-frontend/build/
+Kavach-backend/build/
+
+# misc
+Kavach-frontend/.DS_Store
+Kavach-backend/.DS_Store
+Kavach-frontend/.env
+Kavach-frontend/.env.development.local
+Kavach-frontend/.env.test.local
+Kavach-frontend/.env.production.local
+
+Kavach-frontend/npm-debug.log*
+Kavach-backend/npm-debug.log*
+Kavach-frontend/yarn-debug.log*
+Kavach-backend/yarn-debug.log*
+Kavach-frontend/yarn-error.log*
+Kavach-backend/yarn-error.log*
