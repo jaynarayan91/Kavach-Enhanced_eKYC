@@ -73,7 +73,7 @@ Kavach is a state-of-the-art Know Your Customer (KYC) application designed to si
 ![WhatsApp Image 2024-07-26 at 21 41 16_e7991930](https://github.com/user-attachments/assets/418e30f1-bc64-4707-8eb5-c7aec3fe7f1e)
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/948fc325-ae87-47d2-9d52-7f2ed1e6abb8">
 ![image](https://github.com/user-attachments/assets/f47fb453-2b92-4b34-b3ff-4baa13182ad4)
-![image](https://github.com/user-attachments/assets/bef8bf11-8d04-480a-bfb5-d422dd0791ae)
+![image](https://github.com/user-attachments/assets/b91ae0af-e214-440c-83f0-78d6b4a32bdc)
 ![WhatsApp Image 2024-07-26 at 21 42 24_dbaf644f](https://github.com/user-attachments/assets/395e4d0a-1c44-4ada-a726-aaf1d16537a8)
 ![WhatsApp Image 2024-07-26 at 21 43 06_7cc923ae](https://github.com/user-attachments/assets/a81a311f-605f-41d0-bd97-e7e7712084c7)
 ![WhatsApp Image 2024-07-26 at 21 43 23_37402502](https://github.com/user-attachments/assets/9bbc5035-a9b0-4998-9ff3-01393fb8a3e2)
