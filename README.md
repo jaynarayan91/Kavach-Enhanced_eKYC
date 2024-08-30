@@ -1,6 +1,5 @@
 
 # 🚀Kavach - Enhance your eKYC process🚀
-Demo Link : [Check Demo on YouTube](https://youtu.be/Yurp4qgHXbo)
 
 ## 1. Introduction 
 Welcome to Kavach, the next-generation Know Your Customer (KYC) application designed to provide a seamless and efficient identity verification process. Kavach leverages advanced AI technologies to streamline the traditionally cumbersome KYC process, enhancing user experience. Our application facilitates secure login and registration, collects comprehensive applicant details through a user-friendly form, and performs biometric and document verification. Additionally, our intelligent chatbot is available to assist users at every step, providing instant support and guidance. Whether you are a new user or an existing one, Kavach ensures your identity verification journey is smooth, secure, and hassle-free.
@@ -15,7 +14,6 @@ Welcome to Kavach, the next-generation Know Your Customer (KYC) application desi
 - [Future Work/Improvements](#future-workimprovements)
 - [Team Members](#team-members)
 
-Demo Link : [Check Demo on YouTube](https://youtu.be/Yurp4qgHXbo)
 ## Project Description
 
 Kavach is a state-of-the-art Know Your Customer (KYC) application designed to simplify and secure the identity verification process using advanced AI technologies.
