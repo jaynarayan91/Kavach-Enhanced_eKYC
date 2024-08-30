@@ -74,9 +74,9 @@ Kavach is a state-of-the-art Know Your Customer (KYC) application designed to si
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/948fc325-ae87-47d2-9d52-7f2ed1e6abb8">
 ![image](https://github.com/user-attachments/assets/f47fb453-2b92-4b34-b3ff-4baa13182ad4)
 ![image](https://github.com/user-attachments/assets/b91ae0af-e214-440c-83f0-78d6b4a32bdc)
-![WhatsApp Image 2024-07-26 at 21 42 24_dbaf644f](https://github.com/user-attachments/assets/395e4d0a-1c44-4ada-a726-aaf1d16537a8)
+![image](https://github.com/user-attachments/assets/79bc05f5-81e3-4372-a589-4608de1f86ea)
 ![WhatsApp Image 2024-07-26 at 21 43 06_7cc923ae](https://github.com/user-attachments/assets/a81a311f-605f-41d0-bd97-e7e7712084c7)
-![WhatsApp Image 2024-07-26 at 21 43 23_37402502](https://github.com/user-attachments/assets/9bbc5035-a9b0-4998-9ff3-01393fb8a3e2)
+![image](https://github.com/user-attachments/assets/b0d76636-b5a5-45ad-aa2d-2b9008e01bc6)
 ![WhatsApp Image 2024-07-26 at 21 43 40_dfdd6e72](https://github.com/user-attachments/assets/55127a78-d8e3-467f-9669-4ac69ddd44e6)
 ![WhatsApp Image 2024-07-26 at 21 44 02_955e1639](https://github.com/user-attachments/assets/42408224-663b-4167-b385-63414219efa2)
 ![WhatsApp Image 2024-07-26 at 21 44 29_466a6e87](https://github.com/user-attachments/assets/3b819651-0a19-4908-a0bc-d62366a6541a)
